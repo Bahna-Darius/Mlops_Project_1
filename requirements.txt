@@ -12,4 +12,4 @@ joblib
 types-pyyaml
 fastapi
 uvicorn
-
+django
