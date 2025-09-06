@@ -10,4 +10,4 @@ tqdm
 ensure
 joblib
 types-pyyaml
-django
+flask
