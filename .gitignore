@@ -2,3 +2,4 @@
 venv
 logs
 artifacts
+logs/logging.log

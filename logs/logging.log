@@ -4,3 +4,58 @@
 ]
 [2025-09-11 19:31:36,493-> INFO-> main-> Welcome to my Data Science Project!
 ]
+[2025-09-25 19:01:42,260-> INFO-> main-> >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-09-25 19:01:42,263-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-09-25 19:01:42,265-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-09-25 19:01:42,266-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-09-25 19:01:42,267-> INFO-> common-> created directory at: artifacts]
+[2025-09-25 19:01:42,267-> INFO-> common-> created directory at: artifacts/data_ingestion]
+[2025-09-25 19:01:42,838-> INFO-> data_ingestion-> artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 68E6:20C991:A5D39A:C0D581:68D56765
+Accept-Ranges: bytes
+Date: Thu, 25 Sep 2025 16:01:42 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-etou8220118-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1758816103.675121,VS0,VE122
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 37b395f6e739d68de998ba2a3bb83139422b02b9
+Expires: Thu, 25 Sep 2025 16:06:42 GMT
+Source-Age: 0
+
+]
+[2025-09-25 19:01:42,841-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-25 21:08:21,308-> INFO-> main-> >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-09-25 21:08:21,310-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-09-25 21:08:21,311-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-09-25 21:08:21,312-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-09-25 21:08:21,312-> INFO-> common-> created directory at: artifacts]
+[2025-09-25 21:08:21,313-> INFO-> common-> created directory at: artifacts/data_ingestion]
+[2025-09-25 21:08:21,313-> INFO-> data_ingestion-> File already exists]
+[2025-09-25 21:08:21,315-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-25 21:08:21,315-> INFO-> main-> >>>>>> stage Data Validation stage started <<<<<<]
+[2025-09-25 21:08:21,317-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-09-25 21:08:21,318-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-09-25 21:08:21,319-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-09-25 21:08:21,319-> INFO-> common-> created directory at: artifacts]
+[2025-09-25 21:08:21,320-> INFO-> common-> created directory at: artifacts/data_validation]
+[2025-09-25 21:08:21,329-> INFO-> main-> >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
