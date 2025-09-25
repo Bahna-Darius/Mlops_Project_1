@@ -1,5 +1,5 @@
-from src.datascience.constants.data_ingestion import DataIngestion
-from src.datascience.entity.config_entity import ConfigurationManager
+from src.datascience.config.data_ingestion import DataIngestion
+from src.datascience.config.configuration import ConfigurationManager
 from src.datascience import logger_app
 
 
