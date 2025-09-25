@@ -40,3 +40,22 @@ Source-Age: 0
 [2025-09-25 19:01:42,841-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2025-09-25 21:08:21,308-> INFO-> main-> >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-09-25 21:08:21,310-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-09-25 21:08:21,311-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-09-25 21:08:21,312-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-09-25 21:08:21,312-> INFO-> common-> created directory at: artifacts]
+[2025-09-25 21:08:21,313-> INFO-> common-> created directory at: artifacts/data_ingestion]
+[2025-09-25 21:08:21,313-> INFO-> data_ingestion-> File already exists]
+[2025-09-25 21:08:21,315-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-25 21:08:21,315-> INFO-> main-> >>>>>> stage Data Validation stage started <<<<<<]
+[2025-09-25 21:08:21,317-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-09-25 21:08:21,318-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-09-25 21:08:21,319-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-09-25 21:08:21,319-> INFO-> common-> created directory at: artifacts]
+[2025-09-25 21:08:21,320-> INFO-> common-> created directory at: artifacts/data_validation]
+[2025-09-25 21:08:21,329-> INFO-> main-> >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
