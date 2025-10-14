@@ -1,5 +1,6 @@
 from src.datascience.pipeline.data_ingestion_pipeline import DataIngestionTrainingPipeline
 from src.datascience.pipeline.data_validation_pipeline import DataValidationTrainingPipeline
+from src.datascience.pipeline.data_transformation_pipeline import DataTransformationTrainingPipeline
 from src.datascience import logger_app
 
 
@@ -30,3 +31,14 @@ except Exception as e:
         raise e
 
 
+STAGE_NAME = "Data Transformation stage"
+
+
+try:
+   logger_app.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+   data_ingestion = DataTransformationTrainingPipeline()
+   data_ingestion.initiate_data_transformation()
+   logger_app.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
+except Exception as e:
+        logger_app.exception(e)
+        raise e
