@@ -1,4 +1,5 @@
 from sklearn.linear_model import ElasticNet
+from datascience.config.configuration import ModelTrainerConfig
 import pandas as pd
 import joblib
 import os
