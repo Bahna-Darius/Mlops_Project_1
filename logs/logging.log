@@ -341,3 +341,233 @@ x==========x]
 [2025-10-23 16:25:11,860-> INFO-> main-> >>>>>> stage Model Trainer stage completed <<<<<<
 
 x==========x]
+[2025-10-23 17:22:25,804-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:22:25,808-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:22:25,808-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:22:25,816-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:22:47,858-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:22:47,862-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:22:47,864-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:22:47,866-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:23:16,952-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:23:16,952-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:23:16,952-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:23:16,952-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:23:41,020-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:23:41,020-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:23:41,020-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:23:41,020-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:23:41,036-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 17:23:42,116-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 17:40:32,999-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:40:33,001-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:40:33,005-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:40:33,007-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:40:33,009-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 17:40:33,705-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 17:44:28,811-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:44:28,811-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:44:28,811-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:44:28,811-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:44:28,811-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 17:44:29,478-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 17:48:54,651-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:48:54,652-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:48:54,656-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:48:54,658-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:48:54,659-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 17:48:55,350-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 17:49:25,770-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 17:49:25,770-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 17:49:25,770-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 17:49:25,770-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 17:49:25,770-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 17:49:26,121-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 18:00:17,376-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 18:00:17,376-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 18:00:17,376-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 18:00:17,376-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 18:00:17,392-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 18:00:18,087-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 18:01:43,338-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 18:01:43,338-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 18:01:43,338-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 18:01:43,347-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 18:01:43,347-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 18:01:43,632-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-23 18:04:20,737-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-23 18:04:20,737-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-23 18:04:20,737-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-23 18:04:20,747-> INFO-> common-> created directory at: artifacts]
+[2025-10-23 18:04:20,747-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-23 18:04:21,423-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-28 17:55:05,509-> INFO-> main-> >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-28 17:55:05,512-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:05,514-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:05,515-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:05,516-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:05,516-> INFO-> common-> created directory at: artifacts/data_ingestion]
+[2025-10-28 17:55:05,516-> INFO-> data_ingestion-> File already exists]
+[2025-10-28 17:55:05,519-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:05,519-> INFO-> main-> >>>>>> stage Data Validation stage started <<<<<<]
+[2025-10-28 17:55:05,521-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:05,522-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:05,522-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:05,523-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:05,523-> INFO-> common-> created directory at: artifacts/data_validation]
+[2025-10-28 17:55:05,535-> INFO-> main-> >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:05,535-> INFO-> main-> >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-10-28 17:55:05,537-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:05,538-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:05,539-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:05,539-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:05,539-> INFO-> common-> created directory at: artifacts/data_transformation]
+[2025-10-28 17:55:05,561-> INFO-> data_transformation-> Split data into training and test sets]
+[2025-10-28 17:55:05,561-> INFO-> data_transformation-> (1199, 12)]
+[2025-10-28 17:55:05,561-> INFO-> data_transformation-> (400, 12)]
+[2025-10-28 17:55:05,561-> INFO-> main-> >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:05,561-> INFO-> main-> >>>>>> stage Model Trainer stage started <<<<<<]
+[2025-10-28 17:55:05,563-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:05,564-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:05,565-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:05,565-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:05,565-> INFO-> common-> created directory at: artifacts/model_trainer]
+[2025-10-28 17:55:05,577-> INFO-> main-> >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:05,577-> INFO-> main-> >>>>>> stage Model evaluation stage started <<<<<<]
+[2025-10-28 17:55:05,579-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:05,580-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:05,581-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:05,582-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:05,582-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-28 17:55:07,306-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-28 17:55:13,625-> ERROR-> main-> INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}]
+Traceback (most recent call last):
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\main.py", line 68, in <module>
+    data_ingestion.initiate_model_evaluation()
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\pipeline\model_evaluation_pipeline.py", line 16, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\components\model_evaluation.py", line 66, in log_into_mlflow
+    mlflow.sklearn.log_model(model, "model")
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\sklearn\__init__.py", line 426, in log_model
+    return Model.log(
+           ^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\models\model.py", line 1169, in log
+    model = _create_logged_model(
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 2305, in _create_logged_model
+    return MlflowClient()._create_logged_model(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\tracking\client.py", line 5394, in _create_logged_model
+    return self._tracking_client.create_logged_model(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\telemetry\track.py", line 23, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 860, in create_logged_model
+    return self.store.create_logged_model(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 824, in create_logged_model
+    response_proto = self._call_endpoint(CreateLoggedModel, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 134, in _call_endpoint
+    return call_endpoint(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 554, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 308, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}
+[2025-10-28 17:55:42,689-> INFO-> main-> >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-28 17:55:42,693-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:42,693-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:42,696-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:42,697-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:42,697-> INFO-> common-> created directory at: artifacts/data_ingestion]
+[2025-10-28 17:55:42,697-> INFO-> data_ingestion-> File already exists]
+[2025-10-28 17:55:42,700-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:42,700-> INFO-> main-> >>>>>> stage Data Validation stage started <<<<<<]
+[2025-10-28 17:55:42,703-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:42,704-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:42,705-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:42,706-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:42,706-> INFO-> common-> created directory at: artifacts/data_validation]
+[2025-10-28 17:55:42,715-> INFO-> main-> >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:42,715-> INFO-> main-> >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-10-28 17:55:42,717-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:42,718-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:42,720-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:42,720-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:42,720-> INFO-> common-> created directory at: artifacts/data_transformation]
+[2025-10-28 17:55:42,740-> INFO-> data_transformation-> Split data into training and test sets]
+[2025-10-28 17:55:42,740-> INFO-> data_transformation-> (1199, 12)]
+[2025-10-28 17:55:42,740-> INFO-> data_transformation-> (400, 12)]
+[2025-10-28 17:55:42,741-> INFO-> main-> >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:42,741-> INFO-> main-> >>>>>> stage Model Trainer stage started <<<<<<]
+[2025-10-28 17:55:42,742-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:42,744-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:42,745-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:42,746-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:42,746-> INFO-> common-> created directory at: artifacts/model_trainer]
+[2025-10-28 17:55:42,756-> INFO-> main-> >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2025-10-28 17:55:42,756-> INFO-> main-> >>>>>> stage Model evaluation stage started <<<<<<]
+[2025-10-28 17:55:42,758-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 17:55:42,759-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 17:55:42,760-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 17:55:42,760-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 17:55:42,761-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-28 17:55:44,116-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-28 17:55:49,627-> ERROR-> main-> INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}]
+Traceback (most recent call last):
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\main.py", line 68, in <module>
+    data_ingestion.initiate_model_evaluation()
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\pipeline\model_evaluation_pipeline.py", line 16, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\components\model_evaluation.py", line 66, in log_into_mlflow
+    mlflow.sklearn.log_model(model, "model")
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\sklearn\__init__.py", line 426, in log_model
+    return Model.log(
+           ^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\models\model.py", line 1169, in log
+    model = _create_logged_model(
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 2305, in _create_logged_model
+    return MlflowClient()._create_logged_model(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\tracking\client.py", line 5394, in _create_logged_model
+    return self._tracking_client.create_logged_model(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\telemetry\track.py", line 23, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 860, in create_logged_model
+    return self.store.create_logged_model(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 824, in create_logged_model
+    response_proto = self._call_endpoint(CreateLoggedModel, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 134, in _call_endpoint
+    return call_endpoint(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 554, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 308, in verify_rest_response
+    raise RestException(json.loads(response.text))
+mlflow.exceptions.RestException: INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}
