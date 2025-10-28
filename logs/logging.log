@@ -571,3 +571,67 @@ Traceback (most recent call last):
   File "C:\Users\Darius\PycharmProjects\Mlops_Project_1\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 308, in verify_rest_response
     raise RestException(json.loads(response.text))
 mlflow.exceptions.RestException: INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}
+[2025-10-28 19:46:09,380-> INFO-> _internal-> [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.59:8000]
+[2025-10-28 19:46:09,380-> INFO-> _internal-> [33mPress CTRL+C to quit[0m]
+[2025-10-28 19:46:13,565-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:46:13] "GET / HTTP/1.1" 200 -]
+[2025-10-28 19:46:13,721-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:46:13] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-10-28 19:46:13,967-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:46:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-10-28 19:46:30,977-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:46:30] "POST /predict HTTP/1.1" 200 -]
+[2025-10-28 19:46:45,886-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:46:45] "POST /predict HTTP/1.1" 200 -]
+[2025-10-28 19:47:01,513-> INFO-> main-> >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-28 19:47:01,516-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 19:47:01,517-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 19:47:01,518-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 19:47:01,519-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 19:47:01,519-> INFO-> common-> created directory at: artifacts/data_ingestion]
+[2025-10-28 19:47:01,519-> INFO-> data_ingestion-> File already exists]
+[2025-10-28 19:47:01,522-> INFO-> main-> >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-10-28 19:47:01,522-> INFO-> main-> >>>>>> stage Data Validation stage started <<<<<<]
+[2025-10-28 19:47:01,523-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 19:47:01,523-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 19:47:01,526-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 19:47:01,526-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 19:47:01,526-> INFO-> common-> created directory at: artifacts/data_validation]
+[2025-10-28 19:47:01,536-> INFO-> main-> >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 19:47:01,536-> INFO-> main-> >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-10-28 19:47:01,539-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 19:47:01,540-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 19:47:01,542-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 19:47:01,542-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 19:47:01,542-> INFO-> common-> created directory at: artifacts/data_transformation]
+[2025-10-28 19:47:01,560-> INFO-> data_transformation-> Split data into training and test sets]
+[2025-10-28 19:47:01,560-> INFO-> data_transformation-> (1199, 12)]
+[2025-10-28 19:47:01,560-> INFO-> data_transformation-> (400, 12)]
+[2025-10-28 19:47:01,560-> INFO-> main-> >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 19:47:01,560-> INFO-> main-> >>>>>> stage Model Trainer stage started <<<<<<]
+[2025-10-28 19:47:01,563-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 19:47:01,563-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 19:47:01,566-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 19:47:01,566-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 19:47:01,566-> INFO-> common-> created directory at: artifacts/model_trainer]
+[2025-10-28 19:47:01,577-> INFO-> main-> >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2025-10-28 19:47:01,577-> INFO-> main-> >>>>>> stage Model evaluation stage started <<<<<<]
+[2025-10-28 19:47:01,580-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\src\datascience\config\config.yaml loaded successfully]
+[2025-10-28 19:47:01,581-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\params.yaml loaded successfully]
+[2025-10-28 19:47:01,583-> INFO-> common-> yaml file: C:\Users\Darius\PycharmProjects\Mlops_Project_1\schema.yaml loaded successfully]
+[2025-10-28 19:47:01,584-> INFO-> common-> created directory at: artifacts]
+[2025-10-28 19:47:01,586-> INFO-> common-> created directory at: artifacts/model_evaluation]
+[2025-10-28 19:47:02,517-> INFO-> common-> json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-10-28 19:47:10,413-> INFO-> main-> >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2025-10-28 19:47:10,761-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:47:10] "GET /train HTTP/1.1" 200 -]
+[2025-10-28 19:47:16,413-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:47:16] "GET / HTTP/1.1" 200 -]
+[2025-10-28 19:47:16,483-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:47:16] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-10-28 19:47:21,616-> INFO-> _internal-> 127.0.0.1 - - [28/Oct/2025 19:47:21] "POST /predict HTTP/1.1" 200 -]
