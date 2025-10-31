@@ -79,7 +79,7 @@ def load_json(path: Path) -> ConfigBox:
         ConfigBox: data as class attributes instead of dict
     """
     with open(path) as f:
-        content = json.load(f)
+        content = json.load(f)      # File is close but date saved in memory
     logger_app.info(f"json file loaded succesfully from: {path}")
 
     return ConfigBox(content)
